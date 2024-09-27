@@ -1,0 +1,19 @@
+{
+  "name": "10-01-javascript-recap-johnemon-clean-pick",
+  "version": "1.0.0",
+  "description": "Initialization",
+  "main": "Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junior-dev-Track/10-01-javascript-recap-johnemon-Clean-Pick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junior-dev-Track/10-01-javascript-recap-johnemon-Clean-Pick/issues"
+  },
+  "homepage": "https://github.com/Junior-dev-Track/10-01-javascript-recap-johnemon-Clean-Pick#readme"
+}
